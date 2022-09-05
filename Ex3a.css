@@ -10,7 +10,7 @@
     .head-container{
     display: flex;
     justify-content: space-between;
-    background-color: whitesmoke;
+    background-color: blue;
     }
     .head-img{
     width: 8rem;
@@ -53,7 +53,7 @@ width: 100%;
 display: flex;
 justify-content: space-between;
 align-items: center;
-background: whitesmoke;
+background: blueviolet;
 padding: 0 2.5rem;
 }
 .left-text{
@@ -69,7 +69,7 @@ border-style: dashed;
 display: flex;
 justify-content: space-evenly;
 align-items: center;
-background-color: brown;
+background-color: green;
 padding: 2rem 0;
 }
 .image1, .image2, .image3, .image4{
